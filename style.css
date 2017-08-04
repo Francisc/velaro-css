@@ -55,3 +55,7 @@ body {
   position: absolute;
   bottom: 19px;
 }
+
+#velaro-content #velaro-send-text {
+	margin: 0;
+}
