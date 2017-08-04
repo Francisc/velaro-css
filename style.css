@@ -56,6 +56,9 @@ body {
   bottom: 19px;
 }
 
+#velaro-content #velaro-chat-text {
+	margin-bottom: 10px;
+}
 #velaro-content #velaro-send-text {
 	margin: 0;
 }
